@@ -948,6 +948,10 @@ input[type='email']::placeholder {
     width: 264px;
   }
 
+  .container-media {
+    margin: 0;
+  }
+
   .container-media,
   .subscribe,
   .footer-logo,
